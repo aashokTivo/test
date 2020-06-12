@@ -2,6 +2,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("commit1");
         method1();
+        System.out.println("from git hub");
     }
 
     public static void method1(){
